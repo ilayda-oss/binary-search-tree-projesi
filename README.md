@@ -2,6 +2,8 @@ https://www.patika.dev/tr
 # Binary-search-tree-projesi
 binary serch tree project  
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+
 root = 7
 
 
